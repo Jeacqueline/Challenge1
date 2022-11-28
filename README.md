@@ -22,4 +22,4 @@ The purpose of this Challenge1 is to maintain the site's functionality and make 
 - WHEN I view the title element
 - THEN I find a concise, descriptive title
 
-![Reference image.](./assets/images/engine_optimization.png)
+![Reference image.](./Develop/assets/images/engine_optimization.png)
