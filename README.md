@@ -22,4 +22,6 @@ The purpose of this Challenge1 is to maintain the site's functionality and make 
 - WHEN I view the title element
 - THEN I find a concise, descriptive title
 
-![Reference image.](./Develop/assets/images/engine_optimization.png)
+![Reference image.](./Develop/assets/images/Engine%20Optimization%20Online%20Reputation%20Management%20Social%20Media%20Marketing%20Search.png)
+
+[GitHub/Jeacqueline](https://github.com/Jeacqueline/Challenge1)
