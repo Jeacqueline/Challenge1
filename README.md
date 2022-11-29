@@ -25,3 +25,5 @@ The purpose of this Challenge1 is to maintain the site's functionality and make 
 ![Reference image.](./Develop/assets/images/Engine%20Optimization%20Online%20Reputation%20Management%20Social%20Media%20Marketing%20Search.png)
 
 [GitHub/Jeacqueline](https://github.com/Jeacqueline/Challenge1)
+
+[GitHub/Jeacqueline/Challenge1](https://jeacqueline.github.io/Challenge1/)
